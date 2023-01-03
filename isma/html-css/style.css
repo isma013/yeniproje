@@ -1,0 +1,1854 @@
+       /*  temel */
+       
+       body {
+           box-sizing: border-box;
+           font-size: 14px;
+           height: 6575px;
+           width: 1440px;
+       }
+       
+       * {
+           margin: 0;
+           padding: 0;
+       }
+       /*  birinci hisse start */
+       
+       .logo img {
+           position: relative;
+           height: 66px;
+           width: 112px;
+           left: 121px;
+           top: 21px;
+           border-radius: 0px;
+       }
+       
+       .icon {
+           display: flex;
+       }
+       
+       .icon img {
+           box-sizing: border-box;
+           margin-right: 30px;
+           position: relative;
+           top: 97px;
+           left: 121px;
+           height: 22px;
+           width: 22px;
+       }
+       
+       .icon p {
+           position: relative;
+           left: 100px;
+           top: 100px;
+           box-sizing: border-box;
+           height: 32px;
+           width: 130px;
+           font-family: Roboto;
+           font-size: 20px;
+           font-weight: 400;
+           line-height: 23px;
+           letter-spacing: 0em;
+           text-align: left;
+       }
+       /*  birinci hisse end */
+       /*  ikinci hisse */
+       
+       .main {
+           display: flex;
+           position: relative;
+       }
+       
+       .main-h1 {
+           position: absolute;
+           font-family: Roboto Slab;
+           font-size: 80px;
+           font-weight: 700;
+           line-height: 81px;
+           letter-spacing: 0em;
+           text-align: left;
+           height: 190px;
+           width: 628px;
+           left: 122px;
+           top: 248px;
+       }
+       
+       .main-n p {
+           position: absolute;
+           height: 62px;
+           width: 420px;
+           left: 122px;
+           top: 427px;
+           font-family: Roboto;
+           font-size: 20px;
+           font-weight: 400;
+           line-height: 30px;
+           letter-spacing: 0em;
+           text-align: left;
+       }
+       
+       .main-t img {
+           position: absolute;
+           height: 356px;
+           width: 304px;
+           left: 890px;
+           top: 223px;
+           border-radius: 300px;
+       }
+       
+       .shadow {
+           position: absolute;
+           background: #EFEFEF;
+           height: 41px;
+           width: 274px;
+           left: 921px;
+           top: 558px;
+           border-radius: 100%;
+       }
+       
+       .main-f {
+           position: absolute;
+           background: #1E4681;
+           height: 199.99998807907104px;
+           width: 483.63491990357943px;
+           left: 409.3865966796875px;
+           top: 800px;
+           border-radius: 5px;
+       }
+       
+       .main-o {
+           padding: 19.26px 27.02px 67.4px 26.03px;
+           flex-wrap: wrap;
+           position: relative;
+           display: flex;
+           justify-content: flex-end;
+       }
+       
+       .main-o .sozu {
+           color: white;
+           box-sizing: border-box;
+           text-align: left;
+           font-family: Roboto Slab;
+           font-size: 25px;
+           font-weight: 400;
+           line-height: 32px;
+           letter-spacing: 0em;
+       }
+       
+       .main-o .muellif {
+           color: #FFFFFF;
+           font-family: Roboto;
+           font-size: 20px;
+           font-weight: 400;
+           line-height: 26px;
+           letter-spacing: 0em;
+           text-align: right;
+       }
+       
+       .head {
+           position: absolute;
+           height: 374px;
+           width: 662px;
+           left: 121px;
+           top: 1151px;
+           font-family: Roboto;
+           font-size: 24px;
+           font-weight: 400;
+           line-height: 36px;
+           letter-spacing: 0em;
+           text-align: left;
+       }
+       
+       .orta-hisse {
+           display: flex;
+           position: relative;
+           justify-items: flex-start;
+           justify-content: space-between;
+           left: 121px;
+           top: 1151px;
+       }
+       
+       .orta-hisse p {
+           display: inline-block;
+           font-family: Roboto;
+           font-size: 24px;
+           font-weight: 400;
+           line-height: 36px;
+           letter-spacing: 0em;
+           text-align: left;
+           height: 374px;
+           width: 662px;
+       }
+       
+       .orta-hisse img {
+           height: 315px;
+           position: relative;
+           left: -329px;
+           width: 314px;
+       }
+       
+       .shadow2 {
+           background-color: #EFEFEF;
+           position: relative;
+           height: 59px;
+           width: 366px;
+           border-radius: 100%;
+           left: 60px;
+           top: 290px;
+           width: 314px;
+       }
+       /* ucuncu hisse*/
+       
+       .asagi-hisse {
+           position: relative;
+       }
+       
+       .asagi-hisse .c-flex .flex {
+           left: 450px;
+           top: 1300px;
+           position: relative;
+           height: 39px;
+           width: 150px;
+           font-family: Roboto;
+           font-size: 25px;
+           font-weight: 700;
+           line-height: 32px;
+           letter-spacing: 0em;
+           text-align: left;
+       }
+       
+       .c-flex {
+           position: relative;
+           left: 0px;
+           display: flex;
+           flex-wrap: wrap;
+       }
+       
+       .c-0 img {
+           position: absolute;
+           height: 203px;
+           width: 232px;
+           left: 121px;
+           top: 1200px;
+       }
+       
+       .c-flex .flex1 {
+           position: relative;
+           margin-right: 50px;
+           padding-right: 50px;
+           left: 450px;
+           top: 1300px;
+           display: inline-block;
+           height: 39px;
+           width: 150px;
+           font-family: Roboto;
+           font-size: 18px;
+           font-weight: 400;
+           line-height: 23px;
+           letter-spacing: 0em;
+           text-align: left;
+       }
+       
+       .shadow3 {
+           position: absolute;
+           height: 32px;
+           width: 189px;
+           left: 150px;
+           top: 1380px;
+           background-color: #EFEFEF;
+           border-radius: 100%;
+       }
+       /* ucuncu hissenin sonu*/
+       /* dorduncu hissenin baslangici*/
+       
+       .format {
+           position: relative;
+       }
+       
+       .format1 h2 {
+           position: absolute;
+           font-family: Roboto Slab;
+           font-size: 55px;
+           font-weight: 700;
+           line-height: 56px;
+           letter-spacing: 0em;
+           text-align: left;
+           height: 93px;
+           width: 667px;
+           left: 121px;
+           top: 1500px;
+       }
+       
+       div .format2 {
+           margin-right: 50px;
+           display: flex;
+       }
+       
+       .mavi {
+           display: block;
+           height: 39px;
+           width: 214px;
+           position: relative;
+           left: 122px;
+           top: 1700px;
+           font-family: Roboto;
+           font-size: 25px;
+           font-weight: 700;
+           line-height: 32px;
+           letter-spacing: 0em;
+           text-align: left;
+           color: #1E4681;
+       }
+       
+       .red {
+           margin-right: 100px;
+           display: block;
+           height: 109px;
+           width: 271px;
+           font-family: Roboto;
+           font-size: 18px;
+           font-weight: 400;
+           line-height: 23px;
+           letter-spacing: 0em;
+           text-align: left;
+           position: relative;
+           left: 122px;
+           top: 1710px;
+       }
+       /* dorduncu hissenin sonu*/
+       /* besinci hisse start*/
+       
+       .fourth {
+           position: relative;
+       }
+       
+       .header3 h2 {
+           position: relative;
+           height: 93px;
+           width: 667px;
+           left: 121px;
+           top: 1880px;
+           border-radius: undefinedpx;
+           font-family: Roboto Slab;
+           font-size: 55px;
+           font-weight: 700;
+           line-height: 56px;
+           letter-spacing: 0em;
+           text-align: left;
+       }
+       
+       .list li {
+           position: relative;
+           width: 662px;
+           left: 138px;
+           top: 1901px;
+           font-family: Roboto;
+           font-size: 24px;
+           font-weight: 400;
+           line-height: 36px;
+           letter-spacing: 0em;
+           text-align: left;
+       }
+       /* besinci hisse end*/
+       /* altinci  hisse start*/
+       
+       .fifth h2 {
+           position: relative;
+           height: 93px;
+           width: 905px;
+           left: 121px;
+           top: 2175px;
+           font-family: Roboto Slab;
+           font-size: 55px;
+           font-weight: 700;
+           line-height: 56px;
+           letter-spacing: 0em;
+           text-align: left;
+       }
+       
+       .boxes0 {
+           position: relative;
+           display: flex;
+           flex-direction: row;
+           flex-wrap: wrap;
+           margin-right: 37px;
+       }
+       
+       .boxes0 img {
+           height: 160px;
+           width: 399px;
+           border-radius: 30px;
+       }
+       
+       .boxes0 div {
+           margin: 20px;
+           position: relative;
+           height: 328px;
+           width: 399px;
+           left: 84px;
+           top: 2282px;
+           border-radius: 30px;
+           background-color: #FFFFFF;
+           box-shadow: 1px 1px 15px 0px #00000040;
+       }
+       
+       .boxes0 p {
+           padding-left: 10px;
+           height: 39px;
+           width: 365px;
+           font-family: Roboto;
+           font-size: 30px;
+           font-weight: 700;
+           line-height: 39px;
+           letter-spacing: 0em;
+           text-align: left;
+       }
+       
+       .boxes0 span {
+           padding-left: 10px;
+           position: relative;
+           top: 40px;
+           height: 63px;
+           width: 50px;
+           font-family: Roboto;
+           font-size: 25px;
+           font-weight: 400;
+           line-height: 32px;
+           letter-spacing: 0em;
+           text-align: left;
+       }
+       
+       br {
+           padding-left: 10px;
+       }
+       /* 6-ci  hisse end*/
+       /* 7-ci  hisse start*/
+       
+       .grey1 {
+           position: relative;
+           height: 780px;
+           width: 1440px;
+           left: -1px;
+           top: 2402px;
+           border-radius: 0px;
+           background-color: #EFEFEF;
+       }
+       
+       .grey1 h2 {
+           padding: 91px 331px 596px 122px;
+           height: 93px;
+           width: 987px;
+           font-family: Roboto Slab;
+           font-size: 55px;
+           font-weight: 700;
+           line-height: 56px;
+           letter-spacing: 0em;
+           text-align: left;
+       }
+       
+       .grey1 div {
+           top: 5px;
+           position: absolute;
+           background-color: #FFFFFF;
+           margin: 218px 523px 111px 126px;
+           height: 451px;
+           width: 791px;
+           border-radius: 30px;
+           box-shadow: 1px 1px 20px 0px #00000040;
+           ;
+       }
+       
+       .grey1 p {
+           position: relative;
+           left: 40px;
+           top: 30px;
+           height: 203px;
+           width: 700px;
+           font-family: Roboto;
+           font-size: 20px;
+           font-weight: 400;
+           line-height: 30px;
+           letter-spacing: 0em;
+           text-align: left;
+           vertical-align: top;
+       }
+       
+       .grey1 .face {
+           position: relative;
+           top: 40px;
+           left: 10px;
+           height: 169px;
+           width: 190px;
+           border-radius: 0px;
+       }
+       
+       .grey1 .fb {
+           position: absolute;
+           bottom: 70px;
+           left: 220px;
+           height: 31px;
+           width: 32px;
+           border-radius: 0px;
+       }
+       
+       .grey1 .ad {
+           position: absolute;
+           font-family: Roboto Slab;
+           font-size: 30px;
+           font-weight: 700;
+           line-height: 30px;
+           letter-spacing: 0em;
+           text-align: left;
+           height: 59px;
+           width: 353px;
+           left: 220px;
+           top: 290px;
+           border-radius: nullpx;
+       }
+       /* 7-ci  hisse end*/
+       /* 8-ci  hisse start*/
+       
+       .green {
+           position: relative;
+           height: 780px;
+           width: 1440px;
+           left: -1px;
+           top: 2402px;
+           border-radius: 0px;
+           background: #9DC9C8;
+           fill: solid;
+       }
+       
+       .green h2 {
+           position: absolute;
+           height: 66px;
+           width: 908px;
+           padding: 179px 410px 535px 122px;
+           font-family: Roboto Slab;
+           font-size: 55px;
+           font-weight: 700;
+           line-height: 56px;
+           letter-spacing: 0em;
+           text-align: left;
+       }
+       
+       .green span {
+           position: absolute;
+           padding: 299px 1148px 449px 122px;
+           height: 32px;
+           width: 170px;
+           border-radius: nullpx;
+           font-family: Roboto;
+           font-size: 25px;
+           font-weight: 400;
+           line-height: 25px;
+           letter-spacing: 0em;
+           text-align: left;
+       }
+       
+       .money {
+           position: absolute;
+           padding: 329px 837px 270px 122px;
+           height: 181px;
+           width: 481px;
+           font-family: Roboto;
+           font-size: 80px;
+           font-weight: 400;
+           line-height: 81px;
+           letter-spacing: 0em;
+           text-align: left;
+       }
+       
+       .green1,
+       .green2 {
+           position: absolute;
+           height: 32px;
+           width: 322px;
+           font-family: Roboto;
+           font-size: 25px;
+           font-weight: 400;
+           line-height: 25px;
+           letter-spacing: 0em;
+           text-align: left;
+       }
+       
+       .green1 {
+           padding: 484px 1024px 264px 122px;
+       }
+       
+       .green2 {
+           top: 482px;
+           left: 484px;
+       }
+       
+       .metn1,
+       .metn2 {
+           position: absolute;
+           font-family: Roboto;
+           font-size: 18px;
+           font-weight: 400;
+           line-height: 18px;
+           letter-spacing: 0em;
+           text-align: left;
+           height: 70px;
+           width: 294px;
+       }
+       
+       .metn1 {
+           padding: 525px 1024px 185px 122px;
+       }
+       
+       .metn2 {
+           padding: 525px 660px 185px 486px;
+       }
+       /* 8-ci  hisse end*/
+       /* footer hisse start*/
+       
+       footer {
+           padding-top: 50px;
+           padding-bottom: 23px;
+           position: relative;
+           height: 390px;
+           width: 1440px;
+           left: -1px;
+           top: 2402px;
+           border-radius: 0px;
+           background: #000000;
+           fill: solid;
+       }
+       
+       footer .conteiner {
+           max-width: 1172px;
+           margin: 0 auto;
+       }
+       
+       .footer-logo img {
+           height: 68px;
+           width: 115px;
+           margin-bottom: 28px;
+       }
+       
+       .social {
+           display: flex;
+           gap: 18px;
+       }
+       
+       .social img {
+           height: 33px;
+           width: 33px;
+           margin-bottom: 146px;
+       }
+       
+       .copyright {
+           height: 40px;
+           width: 230px;
+           color: #FFFFFF;
+       }
+       
+       .contact .phone {
+           margin-bottom: 16px;
+       }
+       
+       .contact span {
+           color: #FFFFFF;
+           font-family: Roboto;
+           font-size: 25px;
+           font-weight: 400;
+           line-height: 25px;
+           letter-spacing: 0em;
+           text-align: left;
+       }
+       
+       .contact img {
+           margin-right: 22px;
+           height: 27px;
+           width: 27px;
+       }
+       
+       .d-flex {
+           display: flex;
+           justify-content: space-between;
+       }
+       /* footer hisse end*/
+       
+       @media screen and (min-width: 992px)and (max-width: 1279px) {
+           /* stillər eni 992-dan 1270-ə qədər olanda */
+           body {
+               box-sizing: border-box;
+               font-size: 14px;
+               height: 3800px;
+               width: 834px;
+           }
+           * {
+               margin: 0;
+               padding: 0;
+           }
+           /*  birinci hisse start */
+           .logo img {
+               position: relative;
+               height: 38.23px;
+               width: 64.87px;
+               top: 22px;
+               left: 70.8px;
+           }
+           .icon {
+               display: flex;
+           }
+           .icon img {
+               box-sizing: border-box;
+               margin-right: 30px;
+               position: relative;
+               top: 56.18px;
+               left: 70.8px;
+               height: 12.16px;
+               width: 12.74px;
+           }
+           .icon p {
+               height: 18px;
+               width: 75.29px;
+               position: relative;
+               top: 57.92px;
+               left: 53px;
+               font-family: Roboto;
+               font-size: 12px;
+               font-weight: 400;
+               line-height: 14px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           /*  birinci hisse end */
+           /*  ikinci hisse */
+           .main {
+               display: flex;
+               position: relative;
+           }
+           .main-h1 {
+               position: absolute;
+               font-family: Roboto Slab;
+               font-size: 46px;
+               font-weight: 700;
+               line-height: 47px;
+               letter-spacing: 0em;
+               text-align: left;
+               text-align: left;
+               height: 110.04px;
+               width: 363.72px;
+               left: 70.66px;
+               top: 144.2px;
+           }
+           .main-n p {
+               position: absolute;
+               height: 36px;
+               width: 264px;
+               left: 71px;
+               top: 257px;
+               font-family: Roboto;
+               font-size: 12px;
+               font-weight: 400;
+               line-height: 18px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .main-t img {
+               position: absolute;
+               height: 206.183349609375px;
+               width: 176.06668090820312px;
+               left: 515.4580078125px;
+               top: 138.99163818359375px;
+               border-radius: 0px;
+           }
+           .shadow {
+               position: absolute;
+               background: #EFEFEF;
+               height: 23.745834350585938px;
+               width: 158.69166564941406px;
+               left: 533.41259765625px;
+               top: 333.0125427246094px;
+               border-radius: 100%;
+           }
+           .main-f {
+               position: absolute;
+               background: #1E4681;
+               height: 115.83332897226px;
+               width: 280.1052384313789px;
+               left: 237.1031494140625px;
+               top: 395.9243469238281px;
+               border-radius: 2.8958334922790527px;
+               ;
+           }
+           .main-o {
+               padding: 19.26px 27.02px 67.4px 26.03px;
+               flex-wrap: wrap;
+               position: relative;
+               display: flex;
+               justify-content: flex-end;
+           }
+           .main-o .sozu {
+               color: white;
+               box-sizing: border-box;
+               text-align: left;
+               font-family: Roboto Slab;
+               font-size: 14px;
+               font-weight: 400;
+               line-height: 18px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .main-o .muellif {
+               color: #FFFFFF;
+               font-family: Roboto;
+               font-size: 12px;
+               font-weight: 400;
+               line-height: 16px;
+               letter-spacing: 0em;
+               text-align: right;
+           }
+           .head {
+               position: absolute;
+               height: 53.86250305175781px;
+               width: 211.39585876464844px;
+               left: 70.0791015625px;
+               top: 612.1708984375px;
+               font-family: Roboto Slab;
+               font-size: 32px;
+               font-weight: 700;
+               line-height: 32px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .orta-hisse {
+               display: flex;
+               position: relative;
+               justify-items: flex-start;
+               justify-content: space-between;
+               left: 70.8px;
+               top: 6.46px;
+           }
+           .orta-hisse p {
+               position: absolute;
+               display: inline-block;
+               font-family: Roboto;
+               font-size: 14px;
+               font-weight: 400;
+               line-height: 21px;
+               letter-spacing: 0em;
+               text-align: left;
+               height: 216.60833740234375px;
+               width: 383.4083557128906px;
+               left: 0px;
+               top: 640px;
+           }
+           .orta-hisse img {
+               height: 182.4375px;
+               width: 181.85833740234375px;
+               left: -110px;
+               top: 650px;
+               position: relative;
+           }
+           .shadow2 {
+               background-color: #EFEFEF;
+               position: relative;
+               height: 34.170833587646484px;
+               width: 211.9750213623047px;
+               border-radius: 100%;
+               left: 528px;
+               top: 817px;
+           }
+           /* ucuncu hisse*/
+           .asagi-hisse {
+               position: relative;
+           }
+           .c-0 img {
+               position: absolute;
+               height: 117.57083892822266px;
+               width: 134.36668395996094px;
+               left: 70.0791015625px;
+               top: 750px;
+           }
+           .shadow3 {
+               position: absolute;
+               height: 18.533334732055664px;
+               width: 109.46250915527344px;
+               left: 89.19140625px;
+               top: 858px;
+               background-color: #EFEFEF;
+               border-radius: 100%;
+           }
+           .asagi-hisse .c-flex .flex {
+               position: relative;
+               height: 22.587499618530273px;
+               width: 86.87500762939453px;
+               left: 287px;
+               top: 789px;
+               font-family: Roboto;
+               font-size: 15px;
+               font-weight: 700;
+               line-height: 19px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .c-flex .flex1 {
+               position: relative;
+               margin-right: -4px;
+               height: 23px;
+               width: 108px;
+               left: 287px;
+               top: 789px;
+               font-family: Roboto;
+               font-size: 11px;
+               font-weight: 400;
+               line-height: 14px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           /* ucuncu hissenin sonu*/
+           /* dorduncu hissenin baslangici*/
+           .format {
+               position: relative;
+           }
+           .format1 h2 {
+               position: absolute;
+               font-family: Roboto Slab;
+               font-size: 32px;
+               font-weight: 700;
+               line-height: 32px;
+               letter-spacing: 0em;
+               text-align: left;
+               height: 53.86250305175781px;
+               width: 386.30419921875px;
+               left: 70.0791015625px;
+               top: 903px;
+               border-radius: nullpx;
+           }
+           div .format2 {
+               display: flex;
+           }
+           .mavi {
+               margin-right: -8px;
+               position: relative;
+               height: 22.587499618530273px;
+               width: 120px;
+               left: 70.658203125px;
+               top: 991px;
+               font-family: Roboto;
+               font-size: 15px;
+               font-weight: 700;
+               line-height: 19px;
+               letter-spacing: 0em;
+               text-align: left;
+               color: #1E4681;
+           }
+           .red {
+               height: 63px;
+               width: 172px;
+               left: 71px;
+               top: 1000px;
+               font-family: Roboto;
+               font-size: 11px;
+               font-weight: 400;
+               line-height: 14px;
+               letter-spacing: 0em;
+               text-align: lef;
+               position: relative;
+           }
+           /* dorduncu hissenin sonu*/
+           /* besinci hisse start*/
+           .fourth {
+               position: relative;
+           }
+           .header3 h2 {
+               position: relative;
+               height: 53.86250305175781px;
+               width: 386.30419921875px;
+               left: 70.0791015625px;
+               top: 1100px;
+               font-family: Roboto Slab;
+               font-size: 32px;
+               font-weight: 700;
+               line-height: 32px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .list li {
+               position: relative;
+               width: 383.4083557128906px;
+               left: 79.9248046875px;
+               top: 1129.5709228515625px;
+               font-family: Roboto;
+               font-size: 14px;
+               font-weight: 400;
+               line-height: 21px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           /* besinci hisse end*/
+           /* altinci  hisse start*/
+           .fifth h2 {
+               position: relative;
+               height: 53.86250305175781px;
+               width: 524.1458740234375px;
+               left: 70.0791015625px;
+               top: 1200.812744140625px;
+               font-family: Roboto Slab;
+               font-size: 32px;
+               font-weight: 700;
+               line-height: 32px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .boxes0 {
+               position: relative;
+               display: flex;
+               flex-direction: row;
+               flex-wrap: wrap;
+               margin-right: -10px;
+           }
+           .boxes0 img {
+               height: 92.66667938232422px;
+               width: 231.0875244140625px;
+               border-radius: 17.375px;
+           }
+           .boxes0 div {
+               margin: 20px;
+               position: relative;
+               height: 189.9666748046875px;
+               width: 231.0875244140625px;
+               left: 48.64990234375px;
+               top: 1200px;
+               border-radius: 17.375px;
+               background-color: #FFFFFF;
+               box-shadow: 0.5791667103767395px 0.5791667103767395px 8.6875px 0px #00000040;
+           }
+           .boxes0 p {
+               padding-left: 10px;
+               height: 22.587499618530273px;
+               width: 211.39585876464844px;
+               font-family: Roboto;
+               font-size: 17px;
+               font-weight: 700;
+               line-height: 22px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .boxes0 span {
+               padding-left: 10px;
+               position: relative;
+               height: 36.48750305175781px;
+               width: 211.39585876464844px;
+               font-family: Roboto;
+               font-size: 14px;
+               font-weight: 400;
+               line-height: 18px;
+               letter-spacing: 0em;
+               text-align: left;
+               top: 30px;
+           }
+           br {
+               padding-left: 10px;
+           }
+           /* 6-ci  hisse end*/
+           /* 7-ci  hisse start*/
+           .grey1 {
+               position: relative;
+               height: 451.75006103515625px;
+               width: 834px;
+               left: 0px;
+               top: 1230px;
+               border-radius: 0px;
+               background-color: #EFEFEF;
+           }
+           .grey1 h2 {
+               padding: 52.7px 191.7px 345.18px 70.66px;
+               height: 53.86250305175781px;
+               width: 571.6375122070312px;
+               font-family: Roboto Slab;
+               font-size: 32px;
+               font-weight: 700;
+               line-height: 32px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .grey1 div {
+               top: 5px;
+               position: absolute;
+               background-color: #FFFFFF;
+               margin: 126.26px 302.9px 64.29px 72.97px;
+               height: 261.2041931152344px;
+               width: 458.1208801269531px;
+               border-radius: 17.375px;
+               box-shadow: 0.5791667103767395px 0.5791667103767395px 11.583333969116211px 0px #00000040;
+               ;
+           }
+           .grey1 p {
+               position: relative;
+               left: 40px;
+               top: 30px;
+               height: 117.57083892822266px;
+               width: 405.4166564941406px;
+               border-radius: nullpx;
+               font-family: Roboto;
+               font-size: 12px;
+               font-weight: 400;
+               line-height: 18px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .grey1 .face {
+               position: relative;
+               top: 40px;
+               left: 10px;
+               height: 97.8791732788086px;
+               width: 110.04167175292969px;
+               border-radius: 0px;
+           }
+           .grey1 .fb {
+               position: absolute;
+               bottom: 28px;
+               left: 135px;
+               height: 17.95416831970215px;
+               width: 18.533334732055664px;
+           }
+           .grey1 .ad {
+               position: absolute;
+               font-family: Roboto Slab;
+               font-size: 17px;
+               font-weight: 700;
+               line-height: 17px;
+               letter-spacing: 0em;
+               text-align: left;
+               height: 34.170833587646484px;
+               width: 204.4458465576172px;
+               left: 137px;
+               top: 181px;
+           }
+           /* 7-ci  hisse end*/
+           /* 8-ci  hisse start*/
+           .green {
+               position: relative;
+               height: 451.75006103515625px;
+               width: 834px;
+               left: 0px;
+               top: 1230px;
+               background: #9DC9C8;
+               fill: solid;
+           }
+           .green h2 {
+               position: absolute;
+               height: 38.22500228881836px;
+               width: 525.8833618164062px;
+               padding: 103.67px 237.47px 309.85px 70.66px;
+               font-family: Roboto Slab;
+               font-size: 32px;
+               font-weight: 700;
+               line-height: 32px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .green span {
+               position: absolute;
+               padding: 173.17px 664.88px 260.05px 70.66px;
+               height: 18.533334732055664px;
+               width: 98.45834350585938px;
+               font-family: Roboto;
+               font-size: 14px;
+               font-weight: 400;
+               line-height: 14px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .money {
+               position: absolute;
+               padding: 190.55px 484.76px 156.38px 70.66px;
+               height: 181px;
+               width: 481px;
+               font-family: Roboto;
+               font-size: 80px;
+               font-weight: 400;
+               line-height: 81px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .green1,
+           .green2 {
+               position: absolute;
+               height: 18.533334732055664px;
+               font-family: Roboto;
+               font-size: 14px;
+               font-weight: 400;
+               line-height: 14px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .green1 {
+               padding: 280.32px 593.07px 152.9px 70.66px;
+           }
+           .green2 {
+               top: 280.32px;
+               left: 281.47px;
+           }
+           .metn1,
+           .metn2 {
+               position: absolute;
+               font-family: Roboto;
+               font-size: 10px;
+               font-weight: 400;
+               line-height: 10px;
+               letter-spacing: 0em;
+               text-align: left;
+               height: 40px;
+               width: 170px;
+           }
+           .metn1 {
+               padding: 304px 382.25px 107px 70.66px;
+           }
+           .metn2 {
+               padding: 304px 593px 107px 281.47px;
+           }
+           /* 8-ci  hisse end*/
+           /* footer hisse start*/
+           footer {
+               padding-top: 50px;
+               padding-bottom: 23px;
+               position: relative;
+               height: 225.87503051757812px;
+               width: 834px;
+               left: 0px;
+               top: 1230px;
+               border-radius: 0px;
+               background: #000000;
+               fill: solid;
+           }
+           footer .conteiner {
+               max-width: 710.78px;
+               margin: 0 auto;
+           }
+           .footer-logo img {
+               height: 39.38333511352539px;
+               width: 66.60416412353516px;
+               margin-bottom: 17.32px;
+           }
+           .social {
+               display: flex;
+               gap: 10.43px;
+           }
+           .social img {
+               height: 19px;
+               width: 19px;
+               margin-bottom: 121.05px;
+           }
+           .copyright {
+               height: 23.166669845581055px;
+               width: 133.2083282470703px;
+               color: #FFFFFF;
+           }
+           .contact .phone {
+               margin-bottom: 14.48px;
+           }
+           .contact span {
+               color: #FFFFFF;
+               font-family: Roboto;
+               font-size: 14px;
+               font-weight: 400;
+               line-height: 14px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .contact img {
+               margin-right: 12.74px;
+               height: 10.425000190734863px;
+               width: 15.637499809265137px;
+           }
+           .d-flex {
+               display: flex;
+               justify-content: space-between;
+           }
+       }
+       
+       @media screen and (min-width: 320px)and (max-width: 991px) {
+           /* stillər eni 320-dan 991-ə qədər olanda */
+           body {
+               box-sizing: border-box;
+               height: 4524px;
+               width: 375px;
+           }
+           * {
+               margin: 0;
+               padding: 0;
+           }
+           /*  birinci hisse start */
+           .logo img {
+               position: relative;
+               height: 30.754169464111328px;
+               width: 52.18889236450195px;
+               top: 36px;
+               left: 35px;
+           }
+           .icon {
+               display: flex;
+           }
+           .icon img {
+               margin-right: 30px;
+               position: relative;
+               height: 9.785416603088379px;
+               width: 10.25139045715332px;
+               left: 35px;
+               top: 60.5px;
+           }
+           .icon p {
+               position: relative;
+               top: 63.92px;
+               left: 8px;
+               font-family: Roboto;
+               font-size: 10px;
+               font-weight: 400;
+               line-height: 11px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           /*  birinci hisse end */
+           /*  ikinci hisse */
+           .main {
+               display: flex;
+               position: relative;
+           }
+           .main-h1 {
+               position: absolute;
+               font-family: Roboto Slab;
+               font-size: 37px;
+               font-weight: 700;
+               line-height: 38px;
+               letter-spacing: 0em;
+               text-align: left;
+               height: 88.53472900390625px;
+               width: 292.63055419921875px;
+               left: 35.4658203125px;
+               top: 50px;
+           }
+           .main-n p {
+               position: absolute;
+               height: 28.96402931213379px;
+               width: 212.4028778076172px;
+               left: 35.74072265625px;
+               top: 140px;
+               font-family: Roboto;
+               font-size: 10px;
+               font-weight: 400;
+               line-height: 15px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .main-t img {
+               position: absolute;
+               height: 165.88612365722656px;
+               width: 141.65557861328125px;
+               left: 201px;
+               top: 160px;
+               border-radius: 0px;
+           }
+           .shadow {
+               position: absolute;
+               background: #EFEFEF;
+               height: 19.1048641204834px;
+               width: 127.67638397216797px;
+               left: 215px;
+               top: 320px;
+               border-radius: 100%;
+           }
+           .main-f {
+               position: absolute;
+               background: #1E4681;
+               height: 93.19444482359586px;
+               width: 225.36044494149337px;
+               left: 37.97607421875px;
+               top: 450px;
+               border-radius: 2.3298611640930176px;
+               ;
+           }
+           .main-o .sozu {
+               color: white;
+               box-sizing: border-box;
+               text-align: left;
+               font-family: Roboto Slab;
+               font-size: 11px;
+               font-weight: 400;
+               line-height: 14px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .main-o .muellif {
+               color: #FFFFFF;
+               font-family: Roboto;
+               font-size: 10px;
+               font-weight: 400;
+               line-height: 13px;
+               letter-spacing: 0em;
+               text-align: right;
+           }
+           .head {
+               position: absolute;
+               height: 43.335418701171875px;
+               width: 170.0798797607422px;
+               left: 36px;
+               top: 600px;
+               font-family: Roboto Slab;
+               font-size: 26px;
+               font-weight: 700;
+               line-height: 26px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .orta-hisse {
+               display: flex;
+               position: relative;
+               justify-items: flex-start;
+               justify-content: space-between;
+               left: 70.8px;
+               top: 6.46px;
+           }
+           .orta-hisse p {
+               position: absolute;
+               display: inline-block;
+               font-family: Roboto;
+               font-size: 14px;
+               font-weight: 400;
+               line-height: 21px;
+               letter-spacing: 0em;
+               text-align: left;
+               height: 174.2736053466797px;
+               width: 308.4736022949219px;
+               left: -30px;
+               top: 593px;
+           }
+           .orta-hisse img {
+               height: 146.78125px;
+               width: 146.31527709960938px;
+               left: -156px;
+               top: 918px;
+               border-radius: 0px;
+               position: relative;
+           }
+           .shadow2 {
+               background-color: #EFEFEF;
+               position: relative;
+               height: 27.49236297607422px;
+               width: 156.5458526611328px;
+               left: 66px;
+               top: 1050.8021240234375px;
+               border-radius: 100%;
+           }
+           /* ucuncu hisse*/
+           .asagi-hisse {
+               position: relative;
+           }
+           .c-0 img {
+               position: absolute;
+               display: none;
+           }
+           .shadow3 {
+               display: none;
+               position: absolute;
+           }
+           .c-flex {
+               width: 206.22;
+               height: 108px;
+           }
+           div .c-flex {
+               display: flex;
+               flex-direction: row;
+           }
+           .asagi-hisse .c-flex .flex {
+               position: relative;
+               height: 18.172916412353516px;
+               width: 69.89583587646484px;
+               top: 984px;
+               left: 35px;
+               font-family: Roboto;
+               font-size: 15px;
+               font-weight: 700;
+               line-height: 19px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .c-flex .flex1 {
+               margin-right: 33px;
+               position: relative;
+               height: 20px;
+               width: 90px;
+               top: 992px;
+               left: 35px;
+               font-family: Roboto;
+               font-size: 11px;
+               font-weight: 400;
+               line-height: 14px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .c-3 {
+               margin-top: 34px;
+           }
+           /* ucuncu hissenin sonu*/
+           /* dorduncu hissenin baslangici*/
+           .format {
+               position: absolute;
+           }
+           .format1 h2 {
+               position: absolute;
+               font-family: Roboto Slab;
+               font-size: 26px;
+               font-weight: 700;
+               line-height: 26px;
+               letter-spacing: 0em;
+               text-align: left;
+               height: 43.335418701171875px;
+               width: 310.8034973144531px;
+               left: 36px;
+               top: 1100px;
+           }
+           div .format2 {
+               display: flex;
+               flex-direction: column;
+           }
+           .mavi {
+               display: inline-block;
+               position: relative;
+               height: 18px;
+               width: 99px;
+               left: 35px;
+               top: 1149px;
+               font-family: Roboto;
+               font-size: 12px;
+               font-weight: 700;
+               line-height: 16px;
+               letter-spacing: 0em;
+               text-align: left;
+               color: #1E4681;
+           }
+           .red {
+               left: 35px;
+               height: 51px;
+               width: 165px;
+               top: 1146px;
+               font-family: Roboto;
+               font-size: 10px;
+               font-weight: 400;
+               line-height: 13px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           /* dorduncu hissenin sonu*/
+           /* besinci hisse start*/
+           .fourth {
+               position: relative;
+           }
+           .header3 h2 {
+               position: relative;
+               height: 43.335418701171875px;
+               width: 310.8034973144531px;
+               left: 36px;
+               top: 1450px;
+               font-family: Roboto Slab;
+               font-size: 32px;
+               font-weight: 700;
+               line-height: 32px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .list li {
+               position: relative;
+               width: 299px;
+               left: 44px;
+               top: 1480px;
+               font-family: Roboto;
+               font-size: 12px;
+               font-weight: 400;
+               line-height: 18px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           /* besinci hisse end*/
+           /* altinci  hisse start*/
+           .fifth h2 {
+               position: relative;
+               height: 43.335418701171875px;
+               width: 421.7048645019531px;
+               left: 34px;
+               top: 1580px;
+               font-family: Roboto Slab;
+               font-size: 26px;
+               font-weight: 700;
+               line-height: 26px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .boxes0 {
+               position: relative;
+               display: flex;
+               flex-direction: column;
+               flex-wrap: nowrap;
+               margin-right: -10px;
+           }
+           .boxes0 img {
+               height: 74.5555648803711px;
+               width: 185.92295837402344px;
+               border-radius: 13.979166030883789px;
+           }
+           .boxes0 div {
+               margin: 20px;
+               position: relative;
+               height: 152.8389129638672px;
+               width: 185.92295837402344px;
+               left: 95px;
+               border-radius: 13.979166030883789px;
+               top: 1620px;
+               background-color: #FFFFFF;
+               box-shadow: 0.46597224473953247px 0.46597224473953247px 6.9895830154418945px 0px #00000040;
+           }
+           .boxes0 p {
+               padding-left: 10px;
+               height: 18.172916412353516px;
+               width: 170.0798797607422px;
+               font-family: Roboto;
+               font-size: 14px;
+               font-weight: 700;
+               line-height: 18px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .boxes0 span {
+               padding-left: 10px;
+               position: relative;
+               height: 29.356252670288086px;
+               width: 170.0798797607422px;
+               font-family: Roboto;
+               font-size: 12px;
+               font-weight: 400;
+               line-height: 16px;
+               letter-spacing: 0em;
+               text-align: left;
+               top: 10px;
+           }
+           br {
+               padding-left: 10px;
+           }
+           /* 6-ci  hisse end*/
+           /* 7-ci  hisse start*/
+           .grey1 {
+               position: relative;
+               height: 423px;
+               width: 376px;
+               top: 1650px;
+               border-radius: 0px;
+               background-color: #EFEFEF;
+           }
+           .grey1 h2 {
+               padding: 42px 83px 312px 36px;
+               height: 69px;
+               width: 257px;
+               font-family: Roboto Slab;
+               font-size: 26px;
+               font-weight: 700;
+               line-height: 26px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .grey1 div {
+               top: 5px;
+               position: absolute;
+               background-color: #FFFFFF;
+               margin: 122px 32px 53px 36px;
+               height: 248px;
+               width: 308px;
+               border-radius: 13.979166030883789px;
+               box-shadow: 0.46597224473953247px 0.46597224473953247px 9.31944465637207px 0px #00000040;
+           }
+           .grey1 p {
+               height: 111.009521484375px;
+               width: 266px;
+               left: 21px;
+               top: 18.47px;
+               font-family: Roboto;
+               font-size: 10px;
+               font-weight: 400;
+               line-height: 15px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .grey1 .face {
+               position: relative;
+               height: 84px;
+               width: 80px;
+               left: 21px;
+               bottom: 13px;
+           }
+           .grey1 .fb {
+               position: absolute;
+               bottom: 29.54px;
+               left: 114.63px;
+               height: 17.196596145629883px;
+               width: 14.911112785339355px;
+           }
+           .grey1 .ad {
+               position: absolute;
+               font-family: Roboto Slab;
+               font-size: 14px;
+               font-weight: 700;
+               line-height: 14px;
+               letter-spacing: 0em;
+               text-align: left;
+               height: 32.72900390625px;
+               width: 164.4882049560547px;
+               left: 114.63px;
+               top: 168.54px;
+           }
+           /* 7-ci  hisse end*/
+           /* 8-ci  hisse start*/
+           .green {
+               position: relative;
+               height: 363px;
+               width: 376px;
+               top: 1650px;
+               background: #9DC9C8;
+               fill: solid;
+           }
+           .green h2 {
+               position: absolute;
+               height: 63px;
+               width: 224px;
+               padding: 62px 390px 238.46px 57px;
+               font-family: Roboto Slab;
+               font-size: 26px;
+               font-weight: 700;
+               line-height: 26px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .green span {
+               position: absolute;
+               padding: 147.33px 534.94px 201.22px 56.85px;
+               height: 14.911112785339355px;
+               width: 79.21527862548828px;
+               font-family: Roboto;
+               font-size: 14px;
+               font-weight: 400;
+               line-height: 14px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .money {
+               position: absolute;
+               padding: 161.3px 390.02px 117.81px 56.85px;
+               height: 84.3409652709961px;
+               width: 224.13265991210938px;
+               font-family: Roboto;
+               font-size: 37px;
+               font-weight: 400;
+               line-height: 38px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .green1,
+           .green2 {
+               position: absolute;
+               height: 14.911112785339355px;
+               width: 136.995849609375px;
+               font-family: Roboto;
+               font-size: 12px;
+               font-weight: 400;
+               line-height: 12px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .green1 {
+               padding: 233.53px 476.16px 115.02px 57.85px;
+           }
+           .green2 {
+               top: 234px;
+               left: 226px;
+           }
+           .metn1,
+           .metn2 {
+               height: 38px;
+               width: 140px;
+               position: absolute;
+               font-family: Roboto;
+               font-size: 10px;
+               font-weight: 400;
+               line-height: 10px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .metn1 {
+               padding: 253px 202px 63.49px 57px;
+           }
+           .metn2 {
+               padding: 253px 34px 72.46px 226px;
+           }
+           /* 8-ci  hisse end*/
+           /* footer hisse start*/
+           footer {
+               padding-top: 50px;
+               padding-bottom: 23px;
+               position: relative;
+               height: 251px;
+               width: 394px;
+               left: -19px;
+               top: 1650px;
+               border-radius: 0px;
+               background: #000000;
+               fill: solid;
+           }
+           footer .conteiner {
+               width: 100wh;
+               margin: 0 188.2px 10px 56px;
+           }
+           .footer-logo img {
+               height: 31.686111450195312px;
+               width: 53.5868034362793px;
+               margin-bottom: 13.98px;
+           }
+           .social {
+               display: flex;
+               gap: 8.39px;
+           }
+           .social img {
+               height: 15.377084732055664px;
+               width: 15.377084732055664px;
+               margin-bottom: 167px;
+           }
+           .copyright {
+               font-family: Roboto;
+               font-size: 10px;
+               font-weight: 400;
+               line-height: 10px;
+               letter-spacing: 0em;
+               text-align: left;
+               height: 19px;
+               width: 141px;
+               color: #FFFFFF;
+           }
+           .contact .phone {
+               margin-bottom: 3.65px;
+           }
+           .contact span {
+               color: #FFFFFF;
+               font-family: Roboto;
+               font-size: 12px;
+               font-weight: 400;
+               line-height: 12px;
+               letter-spacing: 0em;
+               text-align: left;
+           }
+           .contact img {
+               margin-right: 10.24px;
+               height: 12.581250190734863px;
+               width: 12.581250190734863px;
+           }
+           .d-flex {
+               display: flex;
+               align-items: flex-start;
+               flex-direction: column;
+           }
+           .footer-right {
+               position: relative;
+               bottom: 128px;
+           }
+       }
